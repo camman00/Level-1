@@ -1,8 +1,10 @@
 /Backpack.class
 /Cat.class
+/FortuneTeller.class
 /Hood$Building.class
 /Hood.class
 /Human.class
+/Magic8Ball.class
 /Pencil.class
 /Platypus.class
 /Robot.class
@@ -12,7 +14,6 @@
 /Ruler.class
 /Supply.class
 /Textbook.class
-/FortuneTeller.class
 /fortune_teller.jpeg
-/Magical8ballo.class
-/Magic8Ball.class
+/FriendlyRobots.class
+/Lottery.class
