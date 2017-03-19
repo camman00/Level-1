@@ -7,10 +7,12 @@
 /Human.class
 /IntroToTests.class
 /Lottery.class
+/M0le.class
 /Magic8Ball.class
 /Minion.class
 /MinionEnum.class
 /MinionTest.class
+/Pane.class
 /Pencil.class
 /Platypus.class
 /Robot.class
@@ -21,6 +23,5 @@
 /Supply.class
 /Textbook.class
 /fortune_teller.jpeg
-/Pane.class
-/m0le.class
-/M0le.class
+/Vault.class
+/JamesBond.class
